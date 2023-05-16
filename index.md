@@ -1,6 +1,8 @@
 ---
 title: Home
-layout: home
+layout: default
+nav_order: 1
+description: "home"
 ---
 
 홈 화면 입니다.
